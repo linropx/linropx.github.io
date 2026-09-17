@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[13986,["/_next/static/chunks/6ef03ab33920e1c1.js","/_next/static/chunks/e4f2a2ebca6e1b8a.js"],"ViewportBoundary"]
+4:I[13986,["/_next/static/chunks/6ef03ab33920e1c1.js","/_next/static/chunks/e4f2a2ebca6e1b8a.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"7BlGMx999Pa86Htb5jGhw","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"LINROP / ARCHIVE"}],["$","meta","1",{"name":"description","content":"A personal archive of thoughts, works, and longer horizons."}],["$","meta","2",{"property":"og:title","content":"LINROP / ARCHIVE"}],["$","meta","3",{"property":"og:description","content":"A personal archive of thoughts, works, and longer horizons."}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"LINROP / ARCHIVE"}],["$","meta","6",{"name":"twitter:description","content":"A personal archive of thoughts, works, and longer horizons."}]]

@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/87efa35bfb4aa528.css","style"]
+:HL["/_next/static/chunks/8f6505d4b6a48ffd.css","style"]
+:HC["/",""]
+:HL["https://fonts.googleapis.cn/css2?family=Averia+Gruesa+Libre&display=swap","style"]
+0:{"buildId":"7BlGMx999Pa86Htb5jGhw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(home)","paramType":null,"paramKey":"(home)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
