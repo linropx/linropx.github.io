@@ -42,3 +42,9 @@ LINROP / ARCHIVE 的静态站点发布仓库，由 GitHub Pages 托管。
 
 next build 会生成大量 __next.*.txt 文件，这些是 Next.js App Router 的 RSC 客户端负载，
 供站内路由跳转与预取使用，**不是**无用文件，不要删除。
+
+## 本分支的优化说明（optimize-site）
+
+此仓库是构建产物。`optimize-site` 分支在产物上做了性能 / SEO / 无障碍优化（压缩主图与 favicon、补全 sitemap/robots/manifest、Open Graph 分享图、规范链接、允许缩放等）。
+
+**下次从源码工程重新 `next build` 并同步 `out/` 时，这些改动会被覆盖。** 请把对应改动移回 Next.js 源码（metadata、图片资源、viewport、sitemap 配置等）后再构建。
